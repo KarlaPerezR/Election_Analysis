@@ -19,3 +19,5 @@ Helping with the election audit results adding additional data to complete the a
 <br>Diana DeGette with 272,892 votes and a winning percentage of 73.8%
 <br>![Group_monthly](https://github.com/KarlaPerezR/Election_Analysis/blob/main/Resources/Results.PNG)
 ## Election Audit Summary
+The script could be used to search the total number of votes with other filters, maybe having a crossing of information as gender, locality, ethic, age, etc.
+<br> Also can be used to found similar behaviors behalf the county.
