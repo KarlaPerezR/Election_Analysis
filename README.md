@@ -17,4 +17,5 @@ Helping with the election audit results adding additional data to complete the a
 <br>Raymon Anthony Doane: 3.1% (11,606)
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 <br>Diana DeGette with 272,892 votes and a winning percentage of 73.8%
+<br>![Group_monthly](https://github.com/KarlaPerezR/Election_Analysis/blob/main/Resources/Results.PNG)
 ## Election Audit Summary
